@@ -1,4 +1,4 @@
-# TributePage
+# ProductLandingPage
 This is a simple project showcasing HTML and CSS skills.
 
 ## Description
