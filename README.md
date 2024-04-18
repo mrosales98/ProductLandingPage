@@ -9,7 +9,7 @@ This project includes a responsive webpage built using HTML and CSS. It demonstr
 - CSS
 
 ## Features
-- Interactive Survey Form
+- Interactive Product Webpage
 - Basic CSS design
 
 ## Live Demo
